@@ -1,0 +1,103 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	background-color: #2a2a2a;
+	color: #9f9f9f;
+	font-family: 'Montserrat', sans-serif;
+}
+.hidden
+{
+	display: none;
+}
+
+.clearfix:after {
+	content: " ";
+	visibility: hidden;
+	display: block;
+	height: 0;
+	clear: both;
+}
+
+
+
+#mainContainer {
+	width: 90%;
+	margin: 0 auto;
+}
+
+#mainContainer object {
+	display: inline-block;
+	width: 80%;
+}
+
+
+
+
+.firstIcon {
+	width: 20%;
+	float: left;
+	height: 300px;
+	margin-left: 3%;
+
+}
+
+.middleIcon {
+	width: 20%;
+	float: left;
+	height: 300px;
+	margin-left: 4%;
+}
+
+.middleIcon2 {
+	width: 40%;
+	float: left;
+	height: 300px;
+	margin-left: 4%;
+}
+
+
+
+.lastIcon {
+	width: 20%;
+	float: right;
+	height: 300px;
+	margin-right: 3%;
+}
+
+
+
+h2 {
+	font-weight: bold;
+	font-size: 20px;
+	letter-spacing: 2px;
+	color: #f4d159;
+	margin-top: 20px;
+}
+p {
+	margin-top: 20px;
+}
+
+/*.container {
+	width: 48%;
+	display: inline-block;
+}
+
+.container object {
+	display: block;
+	width: 80%;
+}*/
+
+
+/*.click-effect {
+	transform:;
+    fill: #ec008c;
+    opacity: 1;
+}*/
+
+/*svg .ripple {
+	width: 100px;
+	height: 100px;
+	border-radius: 50%;
+	background-color: rgba(255,255,255, 0.5);
+}*/
